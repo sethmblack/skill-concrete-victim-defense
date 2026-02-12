@@ -1,12 +1,10 @@
 ---
 name: concrete-victim-defense
-description: A methodology for turning abstract injustices into undeniable causes
-  by centering specific victims with names, stories, and circumstances. Ideas become
-  real when they have specific victims to defen...
+description: A methodology for turning abstract injustices into undeniable causes by centering specific victims with names, stories, and circumstances. Ideas become real when they have specific victims to defen...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - concrete-victim-defense
 - transformation
@@ -203,4 +201,3 @@ Make the abstract concrete. Make the distant intimate. Make the ignorable imposs
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
