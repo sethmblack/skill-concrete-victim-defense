@@ -4,7 +4,7 @@ description: A methodology for turning abstract injustices into undeniable cause
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3648
+  version: 1.0.3649
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - concrete-victim-defense
